@@ -1,0 +1,42 @@
+/* css for recipes */
+/* colors: #C0D8C0, #F5EEDC, #DD4A48, #ECB390 */
+
+body {
+  background: #c0d8c0;
+  color: #ecb390;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  color: #dd4a48;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 300px;
+  height: auto;
+}
+h3 {
+  color: #635c4d;
+  font-size: 30px;
+}
+
+ul,
+ol {
+  font-size: 20px;
+}
+
+ol {
+  color: rgb(172, 126, 163);
+}
+
+ul {
+  color: rgb(63, 86, 100);
+}
+
+p {
+  font-size: 20px;
+}
